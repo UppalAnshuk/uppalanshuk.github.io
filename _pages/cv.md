@@ -9,4 +9,4 @@ redirect_from:
 
 
 [Link to CV](https://uppalanshuk.github.io/files/AU_CV_Dec24.pdf)
-Updated Nov 2024
+Updated Dec 2024
