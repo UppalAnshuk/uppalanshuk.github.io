@@ -8,7 +8,9 @@ author_profile: true
 Please check scholar for an up to date list.
 
 ## Preprints
-  - Coming soon!
+  1. Denoising Multi-β VAE: Representation Learning for Disentanglement and Generation <br>
+    **Anshuk Uppal**, Yuhta Takida, Chieh-Hsin Lai, Yuki Mitsufuji. <br>
+    [pdf](https://uppalanshuk.github.io/files/AU_CVPR_preprint-pages-1.pdf)
     
 ## Conference Proceedings
 - Bounded Implicit Variational Inference <br>
