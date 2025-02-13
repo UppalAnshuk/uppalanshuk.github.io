@@ -38,10 +38,11 @@ I have broad interests in the field of probabilistic modelling. I am enthusiasti
 [comment]: <> (# Contact )
 
 # News
-- [2024/6] I am heading to Tokyo, will be working with the DGM team at SonyAI for a few months!
-- [2024/10] I have made it to NYC!
-- [2024/11] Submitted to CVPR
+- [2025/2] Pre-print of my CVPR work is out, check the publications tab! Work done at Sony AI.
 - [2024/12] I am looking for research interships!
+- [2024/11] Submitted to CVPR
+- [2024/10] I have made it to NYC!
+- [2024/6] I am heading to Tokyo, will be working with the DGM team at SonyAI for a few months!
 
 <details>
 <summary>Old updates.</summary>
