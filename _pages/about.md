@@ -32,7 +32,7 @@ I have broad interests in the field of probabilistic modelling. I am enthusiasti
 
 
 
-> Feel free to reach out!(Email: ansup [at] dtu.dk )
+> Feel free to reach out! (Email: ansup at dtu dot dk)
 
 
 [comment]: <> (# Contact )
