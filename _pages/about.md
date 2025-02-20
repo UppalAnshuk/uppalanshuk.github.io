@@ -18,7 +18,7 @@ Currently, I am in New York collaborating with [Rajesh Ranganath](https://cims.n
 
 I am looking for internship roles staring in April-May 2025 for four to six months. Please reach out if interested.
 
-<font size="16">  
+<font size="4">  
 <details>
 <summary>Click for a longer bio.</summary>
 
