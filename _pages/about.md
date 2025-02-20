@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 Hi, 
-I am a fourth-year PhD student at the Technical University of Denmark at the Applied Mathematics and Computer Science Department. I am supervised by [Jes Frellsen](https://frellsen.org/) at DTU and [Wouter Boomsma](https://ku-bioml.github.io/people/#wouter) at DIKU(University of Copenhagen). My research is a part of the [Centre for Basic Machine Learning Research in Life Sciences](https://www.mlls.dk/).
+I am a fourth-year PhD student at the Technical University of Denmark at the Applied Mathematics and Computer Science Department. I am supervised by [Jes Frellsen](https://frellsen.org/) at DTU and [Wouter Boomsma](https://ku-bioml.github.io/people/#wouter) at DIKU(University of Copenhagen). My research is a part of the [Centre for Basic Machine Learning Research in Life Sciences](https://www.mlls.dk/). 
 
 
-2024 update: I will be interning with the DGM team at [SonyAI](https://ai.sony/) in Tokyo, Japan this summer (from June) and will work on theory of deep generative models. In October of 2024, I will head to NYC to collaborate with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. I am excited about spending 6 months there as part of an extended research stay.
+My recent internship at [SonyAI](https://ai.sony/) with the Music Foundational Model team was fruitful! Interested in non-linear diffusion models, controllability and disentanglement? Read about our work [here](https://uppalanshuk.github.io/files/AU_CVPR_preprint-pages-1.pdf).
 
-I am looking for internship roles staring in March-April 2025 for four to six months. Please reach out if interested.
+Currently, I am in New York collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. I am working on effective sampling techniques, controllability and modelling discrete data.
+
+I am looking for internship roles staring in April-May 2025 for four to six months. Please reach out if interested.
 
 <details>
 <summary>Click for a longer bio.</summary>
