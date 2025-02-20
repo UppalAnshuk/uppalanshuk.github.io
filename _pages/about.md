@@ -18,12 +18,15 @@ Currently, I am in New York collaborating with [Rajesh Ranganath](https://cims.n
 
 I am looking for internship roles staring in April-May 2025 for four to six months. Please reach out if interested.
 
+<font size="16">  
 <details>
 <summary>Click for a longer bio.</summary>
 
 Prior to starting this graduate program, I was a research associate at <a href="https://rbcdsai.iitm.ac.in/">RBCDSAI, IIT Madras</a> and before that I finished my integrated masters in ECE with a specialisation in signal processing and pattern recognition from <a href='https://iiitb.ac.in/'> IIIT Bangalore</a>. During my masters, in 2019 I also spent some time in the Approximate Bayesian Inference team at <a href='https://www.riken.jp/en/research/labs/aip/'>RIKEN-AIP</a> in Tokyo working under <a href='https://emtiyaz.github.io/'>Emtiyaz Khan</a> on scaling Bayesian natural gradient optimizers.
 
 </details>
+</font>
+
 
 
 # Research Interests 
