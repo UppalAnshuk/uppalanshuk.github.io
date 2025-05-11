@@ -16,7 +16,7 @@ My recent internship at [SonyAI](https://ai.sony/) with the Music Foundational M
 
 Currently, I am in New York collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. I am working on effective sampling techniques, controllability and modelling discrete data.
 
-I am looking for internship roles staring in April-May 2025 for four to six months. Please reach out if interested.
+This summer I will be interning at Microsoft in London and will work on generative models.
 
 <font size="4">  
 <details>
