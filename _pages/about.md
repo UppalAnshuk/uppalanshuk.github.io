@@ -43,16 +43,19 @@ I have broad interests in the field of probabilistic modelling. I am enthusiasti
 [comment]: <> (# Contact )
 
 # News
-- [2025/2] Pre-print of my CVPR work is out, check the publications tab! Work done at Sony AI.
-- [2024/12] I am looking for research interships!
-- [2024/11] Submitted to CVPR
-- [2024/10] I have made it to NYC!
-- [2024/6] I am heading to Tokyo, will be working with the DGM team at SonyAI for a few months!
+- [2025/8] I am looking for research roles in various sectors. Get in touch!
+- [2025/6] I've made it to London! Starting at Microsoft soon.
+- [2025/5] NeurIPS submission sprint!
 
 <details>
 <summary>Old updates.</summary>
 
 <ul>
+  <li>[2025/2] Pre-print of my CVPR work is out, check the publications tab! Work done at Sony AI.</li>
+  <li>[2024/12] I am looking for research interships!</li>
+  <li>[2024/11] Submitted to CVPR</li>
+  <li>[2024/10] I have made it to NYC!</li>
+  <li>[2024/6] I am heading to Tokyo, will be working with the DGM team at SonyAI for a few months!</li>
   <li>[2022/11] Personal Website created.</li>
   <li>[2023/04] ICML 2023 submission rejected!</li>
   <li>[2023/09] NeurIPS submission accepted! My work on scaling implicit variational approximations has been accepted as a Spotlight!</li>
