@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 Hi, 
-I am a fourth-year PhD student at the Technical University of Denmark at the Applied Mathematics and Computer Science Department. I am supervised by [Jes Frellsen](https://frellsen.org/) at DTU and [Wouter Boomsma](https://ku-bioml.github.io/people/#wouter) at DIKU(University of Copenhagen). My research is a part of the [Centre for Basic Machine Learning Research in Life Sciences](https://www.mlls.dk/). 
+I am a fourth-year PhD student at the Technical University of Denmark at the Applied Mathematics and Computer Science Department. I am supervised by [Jes Frellsen](https://frellsen.org/) at DTU and [Wouter Boomsma](https://ku-bioml.github.io/people/#wouter) at DIKU(University of Copenhagen). My research activities are funded by the [Centre for Basic Machine Learning Research in Life Sciences](https://www.mlls.dk/). 
 
-Currently, I am interning at Microsoft Research in London and work on SOTA generative models for computer vision applications.
+Most recently, I was interning at Microsoft Research in London and working with SOTA generative models for robust image/video manipulation.
 
-Very recently, I was in New York collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. I am working on effective sampling techniques, controllability and modelling discrete data. Pre-print coming soon!
+Before that, I was in New York collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. We are collaborating on effective sampling techniques, controllability and modelling discrete data. Pre-print coming soon!
 
 My internship at [SonyAI](https://ai.sony/) with the Music Foundational Model team was fruitful! Interested in non-linear diffusion models, controllability and disentanglement? Read about our work [here](https://uppalanshuk.github.io/files/MBVAE_NeurIPS_main_paper.pdf).
 
@@ -31,7 +31,7 @@ Prior to starting this graduate program, I was a research associate at <a href="
 
 # Research Interests 
 
-Lately, I have been focusing on interesting problems in generative modelling. Specifically, I like to think about current challenges with Diffusion Models, like non-linear inference processes, simplifying guidance in pre-trained models, accelerating sampling and modelling discrete data. I also enjoy dabbling in structured modelling and scientific applications of diffusion models. 
+Lately, I have been focusing on interesting problems in generative modelling. Specifically, I like to think about current challenges with Diffusion Models, like controllable generation and alternative guidance methods, accelerating sampling and modelling discrete data. I also enjoy dabbling in structured modelling and scientific applications of diffusion models. 
 
 I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning related to uncertainty quantification, variational inference and high-dimensional sampling. More generally, I like pondering about generalisation, distribution shifts and identifiability in deep probabilistic models. I wish I was better at differential geometry, measure theory and high-dimensional sampling. Works that aim to quantify or estimate uncertainty, model densities, or infer underlying structures/phenomena probabilistically, intrigue me. 
 
@@ -43,6 +43,7 @@ I have broad interests in the field of probabilistic modelling. I am enthusiasti
 [comment]: <> (# Contact )
 
 # News
+- [2025/10] I am back in Copenhagen!
 - [2025/8] I am looking for research roles in various sectors. Get in touch!
 - [2025/6] I've made it to London! Starting at Microsoft soon.
 - [2025/5] NeurIPS submission sprint!
