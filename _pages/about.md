@@ -11,12 +11,11 @@ redirect_from:
 Hi, 
 I am a fourth-year PhD student at the Technical University of Denmark at the Applied Mathematics and Computer Science Department. I am supervised by [Jes Frellsen](https://frellsen.org/) at DTU and [Wouter Boomsma](https://ku-bioml.github.io/people/#wouter) at DIKU(University of Copenhagen). My research activities are funded by the [Centre for Basic Machine Learning Research in Life Sciences](https://www.mlls.dk/). 
 
-Most recently, I was interning at Microsoft Research in London and working with SOTA generative models for robust image/video manipulation.
-
-Before that, I was in New York collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. We are collaborating on effective sampling techniques, controllability and modelling discrete data. Pre-print coming soon!
+Most recently, I was interning at Microsoft Research in London and working with SOTA generative models for robust image/video manipulation. Before that, I was in New York collaborating with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. We are collaborating on effective sampling techniques, controllability and modelling discrete data. Pre-print coming soon!
 
 My internship at [SonyAI](https://ai.sony/) with the Music Foundational Model team was fruitful! Interested in non-linear diffusion models, controllability and disentanglement? Read about our work [here](https://uppalanshuk.github.io/files/MBVAE_NeurIPS_main_paper.pdf).
 
+I am on the industry job market! Please reach out if you're interested in my profile. Here's an updated [resume](https://uppalanshuk.github.io/files/AU_resume_nov25_i.pdf)
 
 <font size="2">  
 <details>
