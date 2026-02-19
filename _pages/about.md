@@ -15,7 +15,7 @@ Most recently, I was interning at Microsoft Research in London and working with 
 
 My internship at [SonyAI](https://ai.sony/) with the Music Foundational Model team was fruitful! Interested in non-linear diffusion models, controllability and disentanglement? Read about our work [here](https://uppalanshuk.github.io/files/MBVAE_NeurIPS_main_paper.pdf).
 
-I am on the industry job market! Please reach out if you're interested in my profile. Here's an updated [resume](https://uppalanshuk.github.io/files/AU_resume_nov25_i.pdf)
+I am on the industry job market! Please reach out if you're interested in my profile. Here's an updated [resume](https://uppalanshuk.github.io/files/au_resumé_jan26.pdf)
 
 <font size="2">  
 <details>
