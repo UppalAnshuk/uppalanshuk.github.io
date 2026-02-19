@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-[Link to Academic CV](https://uppalanshuk.github.io/files/AU_resume_oct25_acad.pdf)
+[Link to recent CV](https://uppalanshuk.github.io/files/au_resumé_jan26.pdf)
 Updated October 2025
